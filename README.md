@@ -1,0 +1,2 @@
+# NLP-with-Transfer-Learning-using-BERT
+Sentiment Analysis with Transfer Learning from BERT Uncased Model to get Embeddings on Amazon Reviews Dataset using \href{https://arxiv.org/pdf/1810.04805.pdf}{\underline{Google's May-2019 Paper on BERT. Built Tokens &amp; Masks to pass into Pretrained BERT Model &amp; got Validation auc of 77% from a decent size NN Model. Also, built a Data Pipeline for BERT Model at the end
